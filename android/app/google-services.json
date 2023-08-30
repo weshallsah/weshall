@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14032643904",
+    "project_id": "weshall-71da6",
+    "storage_bucket": "weshall-71da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14032643904:android:2e83d9123643bf7e553ca5",
+        "android_client_info": {
+          "package_name": "com.example.weshallsah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14032643904-4j9rurj312ereoc0cfi3s76cgsshdv87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZqD_ujF_vbR_Sucw1n-ddDwIkbH5xVHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14032643904-4j9rurj312ereoc0cfi3s76cgsshdv87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
